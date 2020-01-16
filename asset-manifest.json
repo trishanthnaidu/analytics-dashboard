@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/analytics-dashboard/static/css/main.eb5df336.chunk.css",
+    "main.js": "/analytics-dashboard/static/js/main.643a40c0.chunk.js",
+    "main.js.map": "/analytics-dashboard/static/js/main.643a40c0.chunk.js.map",
+    "runtime-main.js": "/analytics-dashboard/static/js/runtime-main.9d622555.js",
+    "runtime-main.js.map": "/analytics-dashboard/static/js/runtime-main.9d622555.js.map",
+    "static/js/2.af14a4d2.chunk.js": "/analytics-dashboard/static/js/2.af14a4d2.chunk.js",
+    "static/js/2.af14a4d2.chunk.js.map": "/analytics-dashboard/static/js/2.af14a4d2.chunk.js.map",
+    "index.html": "/analytics-dashboard/index.html",
+    "precache-manifest.ec524e321047d8ed65e5d905a1978fe5.js": "/analytics-dashboard/precache-manifest.ec524e321047d8ed65e5d905a1978fe5.js",
+    "service-worker.js": "/analytics-dashboard/service-worker.js",
+    "static/css/main.eb5df336.chunk.css.map": "/analytics-dashboard/static/css/main.eb5df336.chunk.css.map",
+    "static/media/Zapr.csv": "/analytics-dashboard/static/media/Zapr.6ffdbdd5.csv",
+    "static/media/logo.svg": "/analytics-dashboard/static/media/logo.bd07ee7b.svg",
+    "static/media/logoDark.svg": "/analytics-dashboard/static/media/logoDark.ae4cae77.svg",
+    "static/media/region-mappings.csv": "/analytics-dashboard/static/media/region-mappings.376b7144.csv",
+    "static/media/section00.svg": "/analytics-dashboard/static/media/section00.064af8a4.svg",
+    "static/media/slack.svg": "/analytics-dashboard/static/media/slack.c7b4398f.svg",
+    "static/media/state-mappings.csv": "/analytics-dashboard/static/media/state-mappings.54a84bb9.csv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d622555.js",
+    "static/js/2.af14a4d2.chunk.js",
+    "static/css/main.eb5df336.chunk.css",
+    "static/js/main.643a40c0.chunk.js"
+  ]
+}
